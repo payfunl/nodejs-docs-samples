@@ -73,7 +73,7 @@ View the [tutorial][codelab_docs] or the [source code][codelab_code].
 [codelab_docs]: https://gcplab.me/codelabs/cloud-nodejs/index.html
 [codelab_code]: https://github.com/googlecodelabs/cloud-nodejs
 
-## Contributing
+## Contributing -
 
 Contributions welcome! See the [Contributing Guide][contrib].
 
