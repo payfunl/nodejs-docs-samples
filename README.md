@@ -15,7 +15,7 @@ on Google Cloud Platform.
 
 ## Setup
 
-### Prerequisites1
+### Prerequisites
 
 1. Install [Node.js version 8 or greater][node]
 1. Clone this repository:
